@@ -95,6 +95,3 @@ The server will start at `http://127.0.0.1:8000`.
 
 ---
 
-## Submission
-- Push the code to your Git repository.
-- Fill out the Google Form for submission: [FORM LINK](#)
